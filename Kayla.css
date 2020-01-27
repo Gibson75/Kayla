@@ -1,0 +1,26 @@
+p{
+    background-color: red;
+  }
+
+  h1{ color: crimson; /* crimson text */}
+
+
+
+    h1 {
+        text-align: center;
+      }
+      
+      h2 {
+        text-align: left;
+      }
+
+     h2{ color: firebrick; /* firebrick text */}
+
+      <style>
+
+
+p.center {
+  text-align: center;
+  color: red;
+}
+
